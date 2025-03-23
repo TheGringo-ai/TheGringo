@@ -29,3 +29,10 @@ This repository houses:
 ---
 
 ## 📁 Folder Structure
+/bookl1_7/
+├── sort/             # Raw files for review  
+├── characters/       # Profiles and backstories  
+├── drafts/           # Story drafts and scenes  
+├── research/         # Real-world data to ground scenes  
+├── promo_material/   # Titles, blurbs, marketing  
+└── published/        # Final versions for publishing  

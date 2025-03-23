@@ -1,0 +1,28 @@
+# Google Colab
+.ipynb_checkpoints/
+__pycache__/
+
+# Mac/Windows hidden system files
+.DS_Store
+Thumbs.db
+
+# Python cache
+*.pyc
+
+# Environment/config files
+.env
+*.env
+
+# Token or secret files
+*.key
+*.secret
+
+# Auto-generated summaries
+*.summary.txt
+
+# Output logs and temporary files
+*.log
+*.tmp
+
+# Backup files
+*~
